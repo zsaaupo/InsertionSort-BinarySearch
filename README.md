@@ -6,7 +6,7 @@ This C++ project is designed to implement array sorting in ascending order and e
 
 **Input:** Accepts an unsorted array of length 10 from the user.
 
-**Sorting:** Utilizes the Insertion Sort algorithm to efficiently arrange the elements.
+**Sorting:** Utilizes the Insertion Sort algorithm to arrange the elements efficiently.
 
 **Search:** Prompts the user for a value to perform a Binary Search operation.
 
@@ -34,7 +34,7 @@ This C++ project is designed to implement array sorting in ascending order and e
 Open with CodeBlocks
 
 ```bash
-Bulit and Run
+Built and Run
 ```
 
 Console:
