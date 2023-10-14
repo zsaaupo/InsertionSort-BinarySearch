@@ -31,6 +31,12 @@ This C++ project is designed to implement array sorting in ascending order and e
 
 ## Execution
 
+Command Prompt
+
+```bash
+git clone https://github.com/zsaaupo/InsertionSort-BinarySearch
+```
+
 Open with CodeBlocks
 
 ```bash
